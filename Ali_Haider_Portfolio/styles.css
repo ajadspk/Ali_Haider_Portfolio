@@ -774,3 +774,225 @@ body.motion-ready .motion-reveal.motion-in{opacity:1;transform:none}
   -webkit-text-fill-color: var(--lime, #c8ff00) !important;
   text-shadow: 0 0 12px rgba(200, 255, 0, 0.35);
 }
+
+/* FINAL MOBILE HERO — compact desktop-like 16:9 frame; desktop remains unchanged. */
+@media (max-width: 700px) {
+  .hero.hero-reference {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  /* Remove the tall viewport/min-height setting that pushed the portrait down. */
+  .hero-stage {
+    position: relative;
+    display: block;
+    width: 100%;
+    max-width: none;
+    height: auto;
+    min-height: 0;
+    max-height: none;
+    aspect-ratio: 1672 / 941;
+    margin: 0;
+    overflow: hidden;
+  }
+
+  .hero-background {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+  }
+
+  .hero-top-mark {
+    left: 4.5%;
+    top: 4%;
+    font-size: clamp(8px, 2.2vw, 11px);
+  }
+
+  .hero-role {
+    left: 4% !important;
+    top: 15% !important;
+    width: 92% !important;
+    max-width: 92%;
+    height: auto;
+  }
+
+  .hero-name {
+    left: 50% !important;
+    top: 31% !important;
+    width: 94% !important;
+    max-width: 94%;
+    height: auto;
+  }
+
+  .hero-portrait {
+    width: 48% !important;
+    max-width: 48%;
+    height: auto;
+    right: 0 !important;
+    bottom: 0 !important;
+    object-fit: contain;
+    object-position: bottom right;
+  }
+
+  .hero-footer {
+    left: 4.5%;
+    right: auto;
+    bottom: 4% !important;
+    max-width: 48%;
+  }
+
+  .hero-footer-row {
+    gap: 2vw;
+    font-size: clamp(7px, 1.8vw, 10px);
+    white-space: nowrap;
+  }
+
+  .hero-footer-row i { width: 12vw; }
+
+  .hero-footer p {
+    margin: 6px 0 0 2vw;
+    font-size: clamp(5px, 1.25vw, 7px);
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 380px) {
+  .hero-role { width: 92% !important; max-width: 92%; }
+  .hero-name { width: 94% !important; max-width: 94%; }
+  .hero-portrait { width: 48% !important; max-width: 48%; }
+  .hero-footer { max-width: 48%; }
+}
+
+
+/* FINAL MOBILE TYPOGRAPHY + NAME POSITION TUNING — desktop styles untouched. */
+@media (max-width: 700px) {
+  /* The role artwork is deliberately smaller so the full line breathes. */
+  .hero-role {
+    left: 4% !important;
+    top: 15% !important;
+    width: 84% !important;
+    max-width: 84% !important;
+    height: auto;
+  }
+
+  /* Lift the large name slightly; retain its centered alignment. */
+  .hero-name {
+    left: 50% !important;
+    top: 25% !important;
+    width: 92% !important;
+    max-width: 92% !important;
+    height: auto;
+  }
+
+  /* Compact PORTFOLIO label and its divider for narrow screens. */
+  .hero-footer {
+    left: 4.5% !important;
+    bottom: 4% !important;
+    max-width: 47% !important;
+  }
+  .hero-footer-row {
+    display: flex;
+    align-items: center;
+    gap: 1.4vw !important;
+    font-size: clamp(6px, 1.55vw, 9px) !important;
+    letter-spacing: .22em !important;
+    white-space: nowrap;
+  }
+  .hero-footer-row .slashes {
+    font-size: 1.55em !important;
+  }
+  .hero-footer-row i {
+    width: 8vw !important;
+    margin-left: .2vw !important;
+  }
+
+  /* The animated/typed role caption below PORTFOLIO must remain subtle
+     and fit the left column without colliding with the portrait. */
+  .hero-role-typed {
+    max-width: 47vw;
+    min-height: 1.2em;
+    margin: 4px 0 0 1.5vw !important;
+    font-size: clamp(5.5px, 1.45vw, 7px) !important;
+    line-height: 1.25 !important;
+    letter-spacing: .035em !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+  }
+}
+
+@media (max-width: 380px) {
+  .hero-role {
+    width: 82% !important;
+    max-width: 82% !important;
+  }
+  .hero-name {
+    top: 24% !important;
+    width: 92% !important;
+    max-width: 92% !important;
+  }
+  .hero-footer-row {
+    font-size: 6px !important;
+  }
+  .hero-role-typed {
+    font-size: 5.5px !important;
+  }
+}
+
+/* FINAL MICRO-TUNING: mobile hero only. Desktop rules are untouched. */
+@media (max-width: 700px) {
+  .hero-role {
+    left: 4% !important;
+    top: 11% !important;
+    width: 70% !important;
+    max-width: 70% !important;
+  }
+
+  .hero-name {
+    left: 50% !important;
+    top: 12% !important;
+    width: 86% !important;
+    max-width: 86% !important;
+  }
+
+  .hero-footer {
+    left: 4.5% !important;
+    bottom: 4% !important;
+    max-width: 43% !important;
+  }
+
+  .hero-footer-row {
+    gap: 1vw !important;
+    font-size: clamp(5px, 1.25vw, 7px) !important;
+    letter-spacing: .16em !important;
+  }
+
+  .hero-footer-row .slashes {
+    font-size: 1.35em !important;
+  }
+
+  .hero-footer-row i {
+    width: 6vw !important;
+  }
+
+  .hero-role-typed {
+    max-width: 43vw !important;
+    font-size: clamp(4.5px, 1.1vw, 6px) !important;
+    line-height: 1.15 !important;
+    letter-spacing: .02em !important;
+    margin-top: 3px !important;
+  }
+}
+
+@media (max-width: 380px) {
+  .hero-role { width: 68% !important; max-width: 68% !important; }
+  .hero-name { top: 10% !important; width: 84% !important; max-width: 84% !important; }
+  .hero-footer-row { font-size: 5px !important; }
+  .hero-role-typed { font-size: 4.5px !important; }
+}
