@@ -1,0 +1,214 @@
+[
+  {
+    "title": "AJADS Website",
+    "category": "Web & Digital Presence",
+    "description": "My own published website for presenting the AJADS creative brand and advertising work.",
+    "image": "assets/images/ajads-logo.png",
+    "link": "https://ajadspk.github.io/AJADSPK/",
+    "linkLabel": "Visit Website",
+    "stack": "Personal website · GitHub Pages",
+    "kind": "web"
+  },
+  {
+    "title": "Pure Harvest Natural",
+    "category": "WordPress UI Customization",
+    "description": "AI-assisted customization of an existing WordPress interface from a supplied visual reference, refined through iterative feedback.",
+    "image": "assets/images/case-1.png",
+    "link": "https://pureharvestnatural.com/",
+    "linkLabel": "Visit Website",
+    "stack": "WordPress workflow · AI-assisted coding",
+    "note": "Customized an existing site; not built from scratch.",
+    "kind": "web"
+  },
+  {
+    "title": "Life Psycle Gym Management",
+    "category": "Desktop Software · In Development",
+    "description": "A desktop software project intended to support gym administration, member subscriptions, payment records, staff, inventory, and reporting.",
+    "image": "assets/posters/project-13.jpg",
+    "link": "#contact",
+    "linkLabel": "Discuss Project",
+    "stack": "Desktop application · In development",
+    "note": "Project in development; not presented as a finished product.",
+    "kind": "web"
+  },
+  {
+    "title": "Cherry",
+    "category": "Fashion & Lifestyle",
+    "description": "Fashion, clothing, fragrance and jewellery advertising concept.",
+    "video": "assets/videos/category-work/01_Fashion_and_Lifestyle/Clothing_Ads/CHERRY.mp4",
+    "image": "assets/posters/category-work/01.jpg",
+    "ratio": "640/472",
+    "stack": "640 × 472 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Decrum",
+    "category": "Fashion & Lifestyle",
+    "description": "Fashion, clothing, fragrance and jewellery advertising concept.",
+    "video": "assets/videos/category-work/01_Fashion_and_Lifestyle/Clothing_Ads/DECRUM.mp4",
+    "image": "assets/posters/category-work/02.jpg",
+    "ratio": "720/1280",
+    "stack": "720 × 1280 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Louis Vutton",
+    "category": "Fashion & Lifestyle",
+    "description": "Fashion, clothing, fragrance and jewellery advertising concept.",
+    "video": "assets/videos/category-work/01_Fashion_and_Lifestyle/Clothing_Ads/LOUIS VUTTON.mp4",
+    "image": "assets/posters/category-work/03.jpg",
+    "ratio": "368/368",
+    "stack": "368 × 368 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Sapphire",
+    "category": "Fashion & Lifestyle",
+    "description": "Fashion, clothing, fragrance and jewellery advertising concept.",
+    "video": "assets/videos/category-work/01_Fashion_and_Lifestyle/Clothing_Ads/SAPPHIRE.mp4",
+    "image": "assets/posters/category-work/04.jpg",
+    "ratio": "478/850",
+    "stack": "478 × 850 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Jawellery Antique Green",
+    "category": "Fashion & Lifestyle",
+    "description": "Fashion, clothing, fragrance and jewellery advertising concept.",
+    "video": "assets/videos/category-work/01_Fashion_and_Lifestyle/Jewellery_Ads/JAWELLERY ANTIQUE GREEN.mp4",
+    "image": "assets/posters/category-work/05.jpg",
+    "ratio": "478/850",
+    "stack": "478 × 850 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Pearl Tassing Earing",
+    "category": "Fashion & Lifestyle",
+    "description": "Fashion, clothing, fragrance and jewellery advertising concept.",
+    "video": "assets/videos/category-work/01_Fashion_and_Lifestyle/Jewellery_Ads/PEARL TASSING EARING.mp4",
+    "image": "assets/posters/category-work/06.jpg",
+    "ratio": "1280/720",
+    "stack": "1280 × 720 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "J. Perfume",
+    "category": "Fashion & Lifestyle",
+    "description": "Fashion, clothing, fragrance and jewellery advertising concept.",
+    "video": "assets/videos/category-work/01_Fashion_and_Lifestyle/Perfume_Ads/J. PERFUME.mp4",
+    "image": "assets/posters/category-work/07.jpg",
+    "ratio": "478/850",
+    "stack": "478 × 850 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Hair Tonic Pure Herbal",
+    "category": "Beauty & Personal Care",
+    "description": "Beauty and personal-care advertising concept.",
+    "video": "assets/videos/category-work/02_Beauty_and_Personal_Care/Hair_Tonic_Ads/HAIR TONIC PURE HERBAL.mp4",
+    "image": "assets/posters/category-work/08.jpg",
+    "ratio": "478/850",
+    "stack": "478 × 850 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Garnier Mens",
+    "category": "Beauty & Personal Care",
+    "description": "Beauty and personal-care advertising concept.",
+    "video": "assets/videos/category-work/02_Beauty_and_Personal_Care/Other_Beauty_Ads/GARNIER MENS.mp4",
+    "image": "assets/posters/category-work/09.jpg",
+    "ratio": "478/850",
+    "stack": "478 × 850 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Meezan Cooking Oil",
+    "category": "Food & FMCG",
+    "description": "Food and fast-moving consumer goods advertising concept.",
+    "video": "assets/videos/category-work/03_Food_and_FMCG/Meezan_Cooking_Oil/MEEZAN COOKING OIL.mp4",
+    "image": "assets/posters/category-work/10.jpg",
+    "ratio": "848/478",
+    "stack": "848 × 478 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Super Biscuit",
+    "category": "Food & FMCG",
+    "description": "Food and fast-moving consumer goods advertising concept.",
+    "video": "assets/videos/category-work/03_Food_and_FMCG/Super_Biscuit/SUPER BISCUIT.mp4",
+    "image": "assets/posters/category-work/11.jpg",
+    "ratio": "478/850",
+    "stack": "478 × 850 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "7Up",
+    "category": "TV Commercials",
+    "description": "Television commercial and brand-film creative.",
+    "video": "assets/videos/category-work/04_TV_Commercials_and_Brand_Films/7UP.mp4",
+    "image": "assets/posters/category-work/12.jpg",
+    "ratio": "478/850",
+    "stack": "478 × 850 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Catbury",
+    "category": "TV Commercials",
+    "description": "Television commercial and brand-film creative.",
+    "video": "assets/videos/category-work/04_TV_Commercials_and_Brand_Films/CATBURY.mp4",
+    "image": "assets/posters/category-work/13.jpg",
+    "ratio": "478/850",
+    "stack": "478 × 850 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Biryani K Paisy",
+    "category": "Content Creation",
+    "description": "Short-form digital content and social video.",
+    "video": "assets/videos/category-work/05_Content_Creation/BIRYANI K PAISY.mp4",
+    "image": "assets/posters/category-work/14.jpg",
+    "ratio": "478/850",
+    "stack": "478 × 850 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Dost Yan Bike",
+    "category": "Content Creation",
+    "description": "Short-form digital content and social video.",
+    "video": "assets/videos/category-work/05_Content_Creation/DOST YAN BIKE.mp4",
+    "image": "assets/posters/category-work/15.jpg",
+    "ratio": "478/850",
+    "stack": "478 × 850 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Podcast Stories",
+    "category": "Creative Concepts",
+    "description": "Experimental, technology, podcast and educational video work.",
+    "video": "assets/videos/category-work/06_Creative_Concepts_Tech_&_Eductional/Podcast_and_Reels/PODCAST STORIES.mp4",
+    "image": "assets/posters/category-work/16.jpg",
+    "ratio": "848/478",
+    "stack": "848 × 478 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Hikmat E Ali (1)",
+    "category": "Creative Concepts",
+    "description": "Experimental, technology, podcast and educational video work.",
+    "video": "assets/videos/category-work/06_Creative_Concepts_Tech_&_Eductional/Tech_and_Educational/HIMAT E ALI  (1).mp4",
+    "image": "assets/posters/category-work/17.jpg",
+    "ratio": "848/478",
+    "stack": "848 × 478 · Original video",
+    "kind": "video"
+  },
+  {
+    "title": "Smart Glasses",
+    "category": "Creative Concepts",
+    "description": "Experimental, technology, podcast and educational video work.",
+    "video": "assets/videos/category-work/06_Creative_Concepts_Tech_&_Eductional/Tech_and_Educational/SMART GLASSES.mp4",
+    "image": "assets/posters/category-work/18.jpg",
+    "ratio": "848/478",
+    "stack": "848 × 478 · Original video",
+    "kind": "video"
+  }
+]
