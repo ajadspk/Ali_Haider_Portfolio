@@ -1,9 +1,0 @@
-ALI HAIDER PORTFOLIO
-
-HOW TO OPEN
-1. Right-click this ZIP file and choose Extract All.
-2. Open the extracted Ali_Haider_Portfolio folder.
-3. Double-click index.html to open the website in Chrome or Edge.
-
-Keep styles.css, script.js, projects.json, and the assets folder together with index.html.
-An internet connection is needed for the online Google Fonts used by the design.

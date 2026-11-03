@@ -1,0 +1,2 @@
+/* Shared layout measurements: maximum content width and standard corner radius. */
+:root{--max:1240px;--radius:13px;}

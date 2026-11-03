@@ -1,0 +1,375 @@
+{
+  "assetRoot": "assets/",
+  "files": [
+    {
+      "path": "assets/Ali-Haider-CV.pdf",
+      "type": "pdf",
+      "bytes": 95850
+    },
+    {
+      "path": "assets/hero-animation/background.jpg",
+      "type": "jpg",
+      "bytes": 331422
+    },
+    {
+      "path": "assets/hero-animation/name.png",
+      "type": "png",
+      "bytes": 121604
+    },
+    {
+      "path": "assets/hero-animation/portrait.png",
+      "type": "png",
+      "bytes": 1982085
+    },
+    {
+      "path": "assets/hero-animation/role.png",
+      "type": "png",
+      "bytes": 448186
+    },
+    {
+      "path": "assets/images/ajads-logo.png",
+      "type": "png",
+      "bytes": 434224
+    },
+    {
+      "path": "assets/images/ali-haider-hero.png",
+      "type": "png",
+      "bytes": 2329454
+    },
+    {
+      "path": "assets/images/case-1.png",
+      "type": "png",
+      "bytes": 245143
+    },
+    {
+      "path": "assets/images/design-reference.png",
+      "type": "png",
+      "bytes": 1829053
+    },
+    {
+      "path": "assets/posters/category-work/01.jpg",
+      "type": "jpg",
+      "bytes": 21040
+    },
+    {
+      "path": "assets/posters/category-work/02.jpg",
+      "type": "jpg",
+      "bytes": 44476
+    },
+    {
+      "path": "assets/posters/category-work/03.jpg",
+      "type": "jpg",
+      "bytes": 26590
+    },
+    {
+      "path": "assets/posters/category-work/04.jpg",
+      "type": "jpg",
+      "bytes": 32166
+    },
+    {
+      "path": "assets/posters/category-work/05.jpg",
+      "type": "jpg",
+      "bytes": 69393
+    },
+    {
+      "path": "assets/posters/category-work/06.jpg",
+      "type": "jpg",
+      "bytes": 42089
+    },
+    {
+      "path": "assets/posters/category-work/07.jpg",
+      "type": "jpg",
+      "bytes": 27825
+    },
+    {
+      "path": "assets/posters/category-work/08.jpg",
+      "type": "jpg",
+      "bytes": 43195
+    },
+    {
+      "path": "assets/posters/category-work/09.jpg",
+      "type": "jpg",
+      "bytes": 57447
+    },
+    {
+      "path": "assets/posters/category-work/10.jpg",
+      "type": "jpg",
+      "bytes": 44803
+    },
+    {
+      "path": "assets/posters/category-work/11.jpg",
+      "type": "jpg",
+      "bytes": 24069
+    },
+    {
+      "path": "assets/posters/category-work/12.jpg",
+      "type": "jpg",
+      "bytes": 57360
+    },
+    {
+      "path": "assets/posters/category-work/13.jpg",
+      "type": "jpg",
+      "bytes": 31004
+    },
+    {
+      "path": "assets/posters/category-work/14.jpg",
+      "type": "jpg",
+      "bytes": 44630
+    },
+    {
+      "path": "assets/posters/category-work/15.jpg",
+      "type": "jpg",
+      "bytes": 47386
+    },
+    {
+      "path": "assets/posters/category-work/16.jpg",
+      "type": "jpg",
+      "bytes": 55677
+    },
+    {
+      "path": "assets/posters/category-work/17.jpg",
+      "type": "jpg",
+      "bytes": 11863
+    },
+    {
+      "path": "assets/posters/category-work/18.jpg",
+      "type": "jpg",
+      "bytes": 65864
+    },
+    {
+      "path": "assets/posters/project-03.jpg",
+      "type": "jpg",
+      "bytes": 40209
+    },
+    {
+      "path": "assets/posters/project-04.jpg",
+      "type": "jpg",
+      "bytes": 43003
+    },
+    {
+      "path": "assets/posters/project-08.jpg",
+      "type": "jpg",
+      "bytes": 25655
+    },
+    {
+      "path": "assets/posters/project-13.jpg",
+      "type": "jpg",
+      "bytes": 20714
+    },
+    {
+      "path": "assets/posters/project-16.jpg",
+      "type": "jpg",
+      "bytes": 17150
+    },
+    {
+      "path": "assets/videos/category-work/01_Fashion_and_Lifestyle/Clothing_Ads/CHERRY.mp4",
+      "type": "mp4",
+      "bytes": 5144940
+    },
+    {
+      "path": "assets/videos/category-work/01_Fashion_and_Lifestyle/Clothing_Ads/DECRUM.mp4",
+      "type": "mp4",
+      "bytes": 4681689
+    },
+    {
+      "path": "assets/videos/category-work/01_Fashion_and_Lifestyle/Clothing_Ads/LOUIS VUTTON.mp4",
+      "type": "mp4",
+      "bytes": 3179689
+    },
+    {
+      "path": "assets/videos/category-work/01_Fashion_and_Lifestyle/Clothing_Ads/PLACE_FILES_HERE.txt",
+      "type": "txt",
+      "bytes": 91
+    },
+    {
+      "path": "assets/videos/category-work/01_Fashion_and_Lifestyle/Clothing_Ads/SAPPHIRE.mp4",
+      "type": "mp4",
+      "bytes": 6606455
+    },
+    {
+      "path": "assets/videos/category-work/01_Fashion_and_Lifestyle/Jewellery_Ads/JAWELLERY ANTIQUE GREEN.mp4",
+      "type": "mp4",
+      "bytes": 6309041
+    },
+    {
+      "path": "assets/videos/category-work/01_Fashion_and_Lifestyle/Jewellery_Ads/PEARL TASSING EARING.mp4",
+      "type": "mp4",
+      "bytes": 2761357
+    },
+    {
+      "path": "assets/videos/category-work/01_Fashion_and_Lifestyle/Jewellery_Ads/PLACE_FILES_HERE.txt",
+      "type": "txt",
+      "bytes": 91
+    },
+    {
+      "path": "assets/videos/category-work/01_Fashion_and_Lifestyle/Perfume_Ads/J. PERFUME.mp4",
+      "type": "mp4",
+      "bytes": 3950093
+    },
+    {
+      "path": "assets/videos/category-work/01_Fashion_and_Lifestyle/Perfume_Ads/PLACE_FILES_HERE.txt",
+      "type": "txt",
+      "bytes": 91
+    },
+    {
+      "path": "assets/videos/category-work/02_Beauty_and_Personal_Care/Hair_Tonic_Ads/HAIR TONIC PURE HERBAL.mp4",
+      "type": "mp4",
+      "bytes": 10743899
+    },
+    {
+      "path": "assets/videos/category-work/02_Beauty_and_Personal_Care/Hair_Tonic_Ads/PLACE_FILES_HERE.txt",
+      "type": "txt",
+      "bytes": 91
+    },
+    {
+      "path": "assets/videos/category-work/02_Beauty_and_Personal_Care/Other_Beauty_Ads/GARNIER MENS.mp4",
+      "type": "mp4",
+      "bytes": 5785670
+    },
+    {
+      "path": "assets/videos/category-work/02_Beauty_and_Personal_Care/Other_Beauty_Ads/PLACE_FILES_HERE.txt",
+      "type": "txt",
+      "bytes": 91
+    },
+    {
+      "path": "assets/videos/category-work/03_Food_and_FMCG/Meezan_Cooking_Oil/MEEZAN COOKING OIL.mp4",
+      "type": "mp4",
+      "bytes": 6952485
+    },
+    {
+      "path": "assets/videos/category-work/03_Food_and_FMCG/Meezan_Cooking_Oil/PLACE_FILES_HERE.txt",
+      "type": "txt",
+      "bytes": 91
+    },
+    {
+      "path": "assets/videos/category-work/03_Food_and_FMCG/Super_Biscuit/PLACE_FILES_HERE.txt",
+      "type": "txt",
+      "bytes": 91
+    },
+    {
+      "path": "assets/videos/category-work/03_Food_and_FMCG/Super_Biscuit/SUPER BISCUIT.mp4",
+      "type": "mp4",
+      "bytes": 5501619
+    },
+    {
+      "path": "assets/videos/category-work/04_TV_Commercials_and_Brand_Films/7UP.mp4",
+      "type": "mp4",
+      "bytes": 4843965
+    },
+    {
+      "path": "assets/videos/category-work/04_TV_Commercials_and_Brand_Films/CATBURY.mp4",
+      "type": "mp4",
+      "bytes": 14327638
+    },
+    {
+      "path": "assets/videos/category-work/04_TV_Commercials_and_Brand_Films/PLACE_FILES_HERE.txt",
+      "type": "txt",
+      "bytes": 91
+    },
+    {
+      "path": "assets/videos/category-work/05_Content_Creation/BIRYANI K PAISY.mp4",
+      "type": "mp4",
+      "bytes": 10816718
+    },
+    {
+      "path": "assets/videos/category-work/05_Content_Creation/DOST YAN BIKE.mp4",
+      "type": "mp4",
+      "bytes": 10068747
+    },
+    {
+      "path": "assets/videos/category-work/05_Content_Creation/PLACE_FILES_HERE.txt",
+      "type": "txt",
+      "bytes": 91
+    },
+    {
+      "path": "assets/videos/category-work/06_Creative_Concepts_Tech_&_Eductional/PLACE_FILES_HERE.txt",
+      "type": "txt",
+      "bytes": 91
+    },
+    {
+      "path": "assets/videos/category-work/06_Creative_Concepts_Tech_&_Eductional/Podcast_and_Reels/PLACE_FILES_HERE.txt",
+      "type": "txt",
+      "bytes": 91
+    },
+    {
+      "path": "assets/videos/category-work/06_Creative_Concepts_Tech_&_Eductional/Podcast_and_Reels/PODCAST STORIES.mp4",
+      "type": "mp4",
+      "bytes": 8111712
+    },
+    {
+      "path": "assets/videos/category-work/06_Creative_Concepts_Tech_&_Eductional/Tech_and_Educational/HIMAT E ALI  (1).mp4",
+      "type": "mp4",
+      "bytes": 21851877
+    },
+    {
+      "path": "assets/videos/category-work/06_Creative_Concepts_Tech_&_Eductional/Tech_and_Educational/PLACE_FILES_HERE.txt",
+      "type": "txt",
+      "bytes": 91
+    },
+    {
+      "path": "assets/videos/category-work/06_Creative_Concepts_Tech_&_Eductional/Tech_and_Educational/SMART GLASSES.mp4",
+      "type": "mp4",
+      "bytes": 4541254
+    },
+    {
+      "path": "assets/videos/creative-study-01.mp4",
+      "type": "mp4",
+      "bytes": 2281940
+    },
+    {
+      "path": "assets/videos/creative-study-02.mp4",
+      "type": "mp4",
+      "bytes": 3206938
+    },
+    {
+      "path": "assets/videos/creative-study-03.mp4",
+      "type": "mp4",
+      "bytes": 6606455
+    },
+    {
+      "path": "assets/videos/janan-gold-spec-ad.mp4",
+      "type": "mp4",
+      "bytes": 3950093
+    },
+    {
+      "path": "assets/videos/menswear-commercial-concept.mp4",
+      "type": "mp4",
+      "bytes": 2886205
+    },
+    {
+      "path": "assets/videos/project-03.mp4",
+      "type": "mp4",
+      "bytes": 10743899
+    },
+    {
+      "path": "assets/videos/project-04.mp4",
+      "type": "mp4",
+      "bytes": 9984663
+    },
+    {
+      "path": "assets/videos/project-07.mp4",
+      "type": "mp4",
+      "bytes": 8068821
+    },
+    {
+      "path": "assets/videos/project-08.mp4",
+      "type": "mp4",
+      "bytes": 4865997
+    },
+    {
+      "path": "assets/videos/project-13.mp4",
+      "type": "mp4",
+      "bytes": 3811982
+    },
+    {
+      "path": "assets/videos/project-14.mp4",
+      "type": "mp4",
+      "bytes": 3113494
+    },
+    {
+      "path": "assets/videos/project-16.mp4",
+      "type": "mp4",
+      "bytes": 2964222
+    }
+  ]
+}
